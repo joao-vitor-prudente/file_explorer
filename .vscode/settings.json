@@ -1,0 +1,8 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "joao-vitor-prudente",
+    "projectKey": "joao-vitor-prudente_file_explorer"
+  },
+  "eslint.useFlatConfig": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+}
